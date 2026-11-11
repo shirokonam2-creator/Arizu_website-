@@ -42,19 +42,19 @@ const speedDown = $("speed-down");
 
 // DANH SÁCH PHÁT MẶC ĐỊNH
 const defaultSongs = [
-   {
-    type: "audio",
-    name: "love for you",
-    platform: "ARIZU MUSIC",
-    url: "arizu/music/love_for_you.mp3",
-    cover: "arizu/music/ariop.jpg"
-  },
  {
     type: "audio",
     name: "Chạnh lòng thương cô 2",
     platform: "ARIZU MUSIC",
     url: "arizu/music/ari.mp3",
     cover: "arizu/music/arizu1.jpg"
+  },
+    {
+    type: "audio",
+    name: "love for you",
+    platform: "ARIZU MUSIC",
+    url: "arizu/music/love_for_you.mp3",
+    cover: "arizu/music/ariop.jpg"
   },
   {
     type: "audio",
